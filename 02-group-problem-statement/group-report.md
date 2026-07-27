@@ -25,8 +25,8 @@ Nhóm thống nhất lấy chung một case study để scan: **vòng đời c�
 |---|---|---|---|---|
 | Bùi Xuân Tùng | Thư ký tổng hợp biên bản không kịp sau họp | thư ký/người phụ trách biên bản | nghe lại ghi âm và đối chiếu note để tái hiện nội dung | workflow rõ, đo được bằng thời gian, cả nhóm đều từng trải qua.|
 | Bùi Xuân Tùng | Nhiều người ghi chép cùng lúc nhưng mỗi người ghi theo góc riêng | thư ký các bên, người gộp biên bản cuối | đối chiếu các bản ghi lệch góc nhìn | pain thật nhưng có thể fix bằng quy định.
-| Bùi Xuân Tùng | Thuật ngữ chuyên môn khi họp với khách hàng nước ngoài | thư ký, người tham gia họp quốc tế | nghe/dịch sai thuật ngữ ngay trong lúc họp - Cảm nhận nhanh: hay nhưng phạm vi hẹp hơn. |
-| Sái Hồng Anh | Xếp lịch họp khó tìm khung giờ chung, đặc biệt khi lệch múi giờ | người tổ chức họp | nhiều vòng trao đổi qua lại để chốt giờ - Cảm nhận nhanh: đã có nhiều tool giải (Calendly, Google Calendar), ít đất để nhóm đóng góp.|
+| Bùi Xuân Tùng | Thuật ngữ chuyên môn khi họp với khách hàng nước ngoài | thư ký, người tham gia họp quốc tế | nghe/dịch sai thuật ngữ ngay trong lúc họp | hay nhưng phạm vi hẹp hơn. |
+| Sái Hồng Anh | Xếp lịch họp khó tìm khung giờ chung, đặc biệt khi lệch múi giờ | người tổ chức họp | nhiều vòng trao đổi qua lại để chốt giờ | đã có nhiều tool giải (Calendly, Google Calendar), ít đất để nhóm đóng góp.|
 | Trần Trung Kiên | Action item sau họp không ai theo dõi, đến hạn mới phát hiện chưa làm | cả nhóm dự họp, quản lý | không có bước chốt và gán việc rõ sau họp | gắn chặt với bài toán biên bản. |
 | Đặng Ngọc Anh | Người vắng mặt không nắm được nội dung họp, phải hỏi lại từng người | người vắng họp, người phải giải thích lại | không có bản tóm tắt đủ tin cậy để đọc lại | là hệ quả của việc biên bản chậm/thiếu.|
 | Nguyễn Quang Sơn | Họp dài, lan man, nhiều nội dung không liên quan tới quyết định cuối | tất cả người dự họp | không có agenda và người điều phối chặt | là vấn đề văn hoá/quy trình, khó đo trong lab.|
@@ -105,21 +105,21 @@ Nhóm có bất đồng giữa "tổng hợp biên bản" và "theo dõi action 
 Cách kiểm chứng: Quick interview với 3 người từng làm thư ký/ghi biên bản (1 bạn làm thư ký CLB, 1 anh đang thực tập tại công ty phần mềm, 1 bạn thường ghi biên bản họp nhóm đồ án) kết hợp poll nhanh trong lớp.
 
 | Nguồn | Số người | Tín hiệu xác nhận | Tín hiệu phản bác | Nhóm sửa problem thế nào |
-|---|---:|---|---|---|
-| Nguồn: Interview | Số người/mẫu: 3 | Tín hiệu xác nhận: cả 3 đều xác nhận bước nghe lại ghi âm/đối chiếu note là phần mất thời gian nhất; 2/3 nói biên bản thường gửi trễ hơn dự kiến | Tín hiệu phản bác: 1 người nói với họp nội bộ ngắn dưới 30 phút thì viết tay ngay sau họp là đủ, không cần thêm gì | Nhóm sửa problem thế nào: thu hẹp phạm vi vào các cuộc họp dài hoặc nhiều bên, không nhắm tới mọi cuộc họp.|
-| Nguồn: Poll nhanh trong lớp | Số người/mẫu: 11 | Tín hiệu xác nhận: đa số từng phải viết lại biên bản/tổng hợp nội dung họp cho người khác đọc | Tín hiệu phản bác: một số bạn cho rằng nếu có template sẵn thì việc viết không còn nặng | Nhóm sửa problem thế nào: bổ sung "template + quy định thư ký" làm phương án non-AI để so sánh nghiêm túc, không mặc định phải dùng AI.|
-| Nguồn: Quan sát trực tiếp trong lab/họp nhóm | Số người/mẫu: quan sát các buổi họp nhóm của chính nhóm | Tín hiệu xác nhận: sau buổi họp đầu tiên, nhóm mất thêm thời gian để thống nhất lại "quyết định thật sự là gì" | Tín hiệu phản bác: không có | Nhóm sửa problem thế nào: giữ nguyên hướng, xác nhận bottleneck nằm ở khâu tái hiện nội dung chứ không phải khâu gõ chữ.|
+|---|---:|---:|---:|---:|
+| Nguồn: Interview | 3 | cả 3 đều xác nhận bước nghe lại ghi âm/đối chiếu note là phần mất thời gian nhất; 2/3 nói biên bản thường gửi trễ hơn dự kiến | 1 người nói với họp nội bộ ngắn dưới 30 phút thì viết tay ngay sau họp là đủ, không cần thêm gì | thu hẹp phạm vi vào các cuộc họp dài hoặc nhiều bên, không nhắm tới mọi cuộc họp.|
+| Nguồn: Poll nhanh trong lớp | 11 | đa số từng phải viết lại biên bản/tổng hợp nội dung họp cho người khác đọc | một số bạn cho rằng nếu có template sẵn thì việc viết không còn nặng | bổ sung "template + quy định thư ký" làm phương án non-AI để so sánh nghiêm túc, không mặc định phải dùng AI.|
+| Nguồn: Quan sát trực tiếp trong lab/họp nhóm | quan sát các buổi họp nhóm của chính nhóm | sau buổi họp đầu tiên, nhóm mất thêm thời gian để thống nhất lại "quyết định thật sự là gì" | không có | giữ nguyên hướng, xác nhận bottleneck nằm ở khâu tái hiện nội dung chứ không phải khâu gõ chữ.|
 
 Ghi chú trung thực: số liệu thời gian cụ thể (bao nhiêu phút/buổi) nhóm **chưa đo được bằng log thật**, hiện mới là ước lượng do người được phỏng vấn tự nhớ lại. Đây là giả định cần xác minh thêm trước khi cam kết metric.
 
 ### Research giải pháp đã có
 
 | Nguồn / tool / case | Link | Họ giải quyết phần nào? | Điểm mạnh | Khoảng trống / rủi ro | Bài học cho nhóm |
-|---|---|---|---|---|---|
-| Nguồn/tool/case: Otter.ai | Link: https://otter.ai | Họ giải quyết phần nào: ghi âm và tạo transcript tự động, tóm tắt nội dung cuộc họp | transcript theo thời gian thực, gắn nhãn người nói | chất lượng nhận dạng giảm với tiếng Việt và thuật ngữ chuyên môn; transcript vẫn chưa phải biên bản có cấu trúc quyết định/action item | bước chuyển tiếng nói thành văn bản coi như đã được giải, phần nhóm cần tập trung là chuyển transcript thành biên bản có cấu trúc.|
-| Nguồn/tool/case: Fireflies.ai | Link: https://fireflies.ai | Họ giải quyết phần nào: tự động tham gia cuộc họp, ghi lại, tóm tắt và trích action item | tích hợp sẵn với các nền tảng họp phổ biến, có phần trích action item | phụ thuộc nền tảng họp trực tuyến, không dùng được cho họp trực tiếp có note tay; vấn đề bảo mật khi bot tham gia họp với khách hàng | pattern "AI draft, người review" đã là chuẩn của thị trường, nhóm không cần phát minh lại.|
-| Nguồn/tool/case: Microsoft Teams intelligent recap | Link: https://learn.microsoft.com/en-us/microsoftteams/intelligent-recap | Họ giải quyết phần nào: tóm tắt cuộc họp, gợi ý task và điểm mốc trong nội bộ hệ sinh thái Microsoft | nằm sẵn trong công cụ doanh nghiệp đang dùng, không cần thêm tool | chỉ hoạt động trong Teams, không gộp được note rời rạc từ nhiều bên | nếu tổ chức đã dùng Teams thì phần lớn nhu cầu cơ bản đã được đáp ứng; giá trị còn lại nằm ở việc gộp nhiều nguồn ghi chép và xử lý thuật ngữ chuyên môn/tiếng Việt.|
-| Nguồn/tool/case: Google Meet AI summary (beta) | Link: [https://workspace.google.com/intl/en/products/meet/ai-summary/](https://workspace.google.com/intl/en/products/meet/ai-summary/) - Họ giải quyết phần nào: tóm tắt cuộc họp trong Google Meet | tích hợp sẵn trong hệ sinh thái Google, có thể chọn người tóm tắt và chia sẻ nội dung sau họp | Khoảng trống/rủi ro: chỉ áp dụng với Google Workspace Enterprise và vẫn còn ở dạng beta; chưa rõ chất lượng với tiếng Việt và quy trình review | các nền tảng họp lớn đang có xu hướng tích hợp sẵn tính năng tóm tắt, giá trị nhóm có thể mang lại là sự độc lập khỏi nền tảng và khả năng xử lý các nguồn note ngoài hệ sinh thái.|
+|---|---:|---:|---:|---:|---:|
+| Nguồn/tool/case: Otter.ai | Link: https://otter.ai | ghi âm và tạo transcript tự động, tóm tắt nội dung cuộc họp | transcript theo thời gian thực, gắn nhãn người nói | chất lượng nhận dạng giảm với tiếng Việt và thuật ngữ chuyên môn; transcript vẫn chưa phải biên bản có cấu trúc quyết định/action item | bước chuyển tiếng nói thành văn bản coi như đã được giải, phần nhóm cần tập trung là chuyển transcript thành biên bản có cấu trúc.|
+| Nguồn/tool/case: Fireflies.ai | Link: https://fireflies.ai | tự động tham gia cuộc họp, ghi lại, tóm tắt và trích action item | tích hợp sẵn với các nền tảng họp phổ biến, có phần trích action item | phụ thuộc nền tảng họp trực tuyến, không dùng được cho họp trực tiếp có note tay; vấn đề bảo mật khi bot tham gia họp với khách hàng | pattern "AI draft, người review" đã là chuẩn của thị trường, nhóm không cần phát minh lại.|
+| Nguồn/tool/case: Microsoft Teams intelligent recap | Link: https://learn.microsoft.com/en-us/microsoftteams/intelligent-recap | tóm tắt cuộc họp, gợi ý task và điểm mốc trong nội bộ hệ sinh thái Microsoft | nằm sẵn trong công cụ doanh nghiệp đang dùng, không cần thêm tool | chỉ hoạt động trong Teams, không gộp được note rời rạc từ nhiều bên | nếu tổ chức đã dùng Teams thì phần lớn nhu cầu cơ bản đã được đáp ứng; giá trị còn lại nằm ở việc gộp nhiều nguồn ghi chép và xử lý thuật ngữ chuyên môn/tiếng Việt.|
+| Nguồn/tool/case: Google Meet AI summary (beta) | Link: [https://workspace.google.com/intl/en/products/meet/ai-summary/](https://workspace.google.com/intl/en/products/meet/ai-summary/) | tóm tắt cuộc họp trong Google Meet | tích hợp sẵn trong hệ sinh thái Google, có thể chọn người tóm tắt và chia sẻ nội dung sau họp | chỉ áp dụng với Google Workspace Enterprise và vẫn còn ở dạng beta; chưa rõ chất lượng với tiếng Việt và quy trình review | các nền tảng họp lớn đang có xu hướng tích hợp sẵn tính năng tóm tắt, giá trị nhóm có thể mang lại là sự độc lập khỏi nền tảng và khả năng xử lý các nguồn note ngoài hệ sinh thái.|
 
 Ghi chú: các link trên là trang chính thức của tool, nhóm chỉ ghi lại phạm vi chức năng công bố. Nhóm **không dùng số liệu tiết kiệm thời gian do các tool tự quảng cáo** vì không kiểm chứng được.
 
@@ -133,11 +133,13 @@ Không nên xây một agent tự chạy toàn bộ quy trình biên bản. Bư�
 
 ### Current workflow
 
-- Bước 1 - Actor: thư ký - Input: nội dung trao đổi trong họp - Output: note tay/gõ máy rời rạc, có thể kèm file ghi âm - Thời gian/tần suất: trong suốt buổi họp, mỗi buổi họp - Ghi chú: ghi không kịp khi nhiều người nói cùng lúc hoặc gặp thuật ngữ lạ.
-- Bước 2 - Actor: thư ký - Input: note thô + file ghi âm - Output: các đoạn nội dung đã được nhớ lại đầy đủ hơn - Thời gian/tần suất: sau họp, thường phải tua đi tua lại - Ghi chú: **bottleneck**, phải nghe lại phần lớn cuộc họp để chắc không bỏ sót.
-- Bước 3 - Actor: thư ký + người tham gia khác - Input: các bản note của nhiều bên, câu hỏi cần làm rõ - Output: bản nội dung đã thống nhất - Thời gian/tần suất: sau họp, phụ thuộc vào tốc độ phản hồi của người khác - Ghi chú: handoff chờ đợi; các bên ghi theo góc khác nhau nên phải đối chiếu.
-- Bước 4 - Actor: thư ký - Input: nội dung đã thống nhất - Output: biên bản chính thức (quyết định, action item, next step) - Thời gian/tần suất: sau họp - Ghi chú: nếu không có template thì mỗi lần một format.
-- Bước 5 - Actor: thư ký - Input: biên bản chính thức - Output: email/tin nhắn gửi các bên liên quan - Thời gian/tần suất: trước hạn cam kết - Ghi chú: đây là thời điểm được tính là "xong".
+| Bước | Actor | Input | Output | thời gian/ tần suất | Ghi chú |
+|---|---:|---:|---:|---:|---:|
+| Bước 1 | thư ký | nội dung trao đổi trong họp | note tay/gõ máy rời rạc, có thể kèm file ghi âm | trong suốt buổi họp, mỗi buổi họp | ghi không kịp khi nhiều người nói cùng lúc hoặc gặp thuật ngữ lạ.|
+| Bước 2 | thư ký | note thô + file ghi âm | các đoạn nội dung đã được nhớ lại đầy đủ hơn | sau họp, thường phải tua đi tua lại | **bottleneck**, phải nghe lại phần lớn cuộc họp để chắc không bỏ sót.|
+| Bước 3 | thư ký + người tham gia khác | các bản note của nhiều bên, câu hỏi cần làm rõ | bản nội dung đã thống nhất | sau họp, phụ thuộc vào tốc độ phản hồi của người khác | handoff chờ đợi; các bên ghi theo góc khác nhau nên phải đối chiếu.|
+| Bước 4 | thư ký | nội dung đã thống nhất | biên bản chính thức (quyết định, action item, next step) | sau họp | nếu không có template thì mỗi lần một format.|
+| Bước 5 | thư ký | biên bản chính thức | email/tin nhắn gửi các bên liên quan | trước hạn cam kết | Đây là thời điểm được tính là "xong".|
 
 Bottleneck chính:
 
@@ -170,10 +172,11 @@ Before/after impact:
 - **Boundary:** Chỉ áp dụng cho các cuộc họp có ghi âm và không chứa nội dung nhạy cảm/bảo mật cao; AI không tự gửi biên bản, không tự thêm nội dung không có trong họp.
 
 ## Rule / Workflow / Agent
-
-- **Rule** - Phương án cho bài toán nhóm: template biên bản cố định + quy định một thư ký chính thức + bắt buộc ghi âm mọi cuộc họp - Khi nào đủ: đủ cho các cuộc họp ngắn, nội bộ, ít người, nội dung đơn giản - Rủi ro: gần như không có rủi ro kỹ thuật, nhưng không giải quyết được phần nặng nhất là tái hiện nội dung từ ghi âm và gộp note nhiều bên - Chọn?: Không chọn làm toàn bộ giải pháp, nhưng giữ lại làm nền (template và quy định thư ký vẫn cần có).
-- **Workflow** - Phương án cho bài toán nhóm: transcript tự động → AI gộp transcript và note thô, draft biên bản theo template, đánh dấu chỗ không chắc → thư ký review và gửi - Khi nào đủ: đủ khi các bước đi theo thứ tự cố định và AI chỉ đảm nhận phần xử lý ngôn ngữ, không phải tự quyết định làm gì tiếp theo - Rủi ro: AI tóm tắt sai hoặc bịa nội dung, nhận dạng sai thuật ngữ chuyên môn, rủi ro bảo mật khi đưa nội dung ra công cụ ngoài - Chọn?: **Chọn**.
-- **Agent** - Phương án cho bài toán nhóm: agent tự tham gia họp, tự quyết định cần hỏi thêm ai, tự tra cứu tài liệu liên quan, tự gán task vào hệ thống quản lý và tự gửi biên bản - Khi nào đủ: chỉ cần khi quy trình có nhiều nhánh, cần gọi nhiều công cụ và tự chọn bước tiếp theo tuỳ tình huống - Rủi ro: phạm vi quá rộng cho bài toán này, cần nhiều quyền truy cập (lịch, email, hệ thống task), hậu quả nghiêm trọng nếu tự gửi nhầm biên bản sai cho khách hàng - Chọn?: Chưa chọn.
+| Loại | Phương án cho bài toán nhóm | Khi nào đủ | Rủi ro |
+|---|---:|---:|---:|
+| **Rule** | template biên bản cố định + quy định một thư ký chính thức + bắt buộc ghi âm mọi cuộc họp | đủ cho các cuộc họp ngắn, nội bộ, ít người, nội dung đơn giản | gần như không có rủi ro kỹ thuật, nhưng không giải quyết được phần nặng nhất là tái hiện nội dung từ ghi âm và gộp note nhiều bên - Chọn?: Không chọn làm toàn bộ giải pháp, nhưng giữ lại làm nền (template và quy định thư ký vẫn cần có).|
+| **Workflow** | transcript tự động → AI gộp transcript và note thô, draft biên bản theo template, đánh dấu chỗ không chắc → thư ký review và gửi | đủ khi các bước đi theo thứ tự cố định và AI chỉ đảm nhận phần xử lý ngôn ngữ, không phải tự quyết định làm gì tiếp theo | AI tóm tắt sai hoặc bịa nội dung, nhận dạng sai thuật ngữ chuyên môn, rủi ro bảo mật khi đưa nội dung ra công cụ ngoài - Chọn?: **Chọn**.|
+| **Agent** | agent tự tham gia họp, tự quyết định cần hỏi thêm ai, tự tra cứu tài liệu liên quan, tự gán task vào hệ thống quản lý và tự gửi biên bản | chỉ cần khi quy trình có nhiều nhánh, cần gọi nhiều công cụ và tự chọn bước tiếp theo tuỳ tình huống | phạm vi quá rộng cho bài toán này, cần nhiều quyền truy cập (lịch, email, hệ thống task), hậu quả nghiêm trọng nếu tự gửi nhầm biên bản sai cho khách hàng - Chọn?: Chưa chọn.|
 
 Mức chọn:
 
